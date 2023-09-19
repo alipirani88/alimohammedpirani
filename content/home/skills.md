@@ -53,7 +53,9 @@ subtitle = "Let me introduce myself."
 
 +++
 
-I am a Computational Biologist working at the intersection of bioinformatics, microbiology of infectious disease pathogens and data science. I have extensive experience developing and deploying bioinformatics pipelines on cloud/HPC infrastructure leveraging large genomics and metagenomics datasets. I have delivered extensive analyses of data intense research projects/grants funded by federal health agencies in collaboration with regional public health agencies and universities. These projects studied genomic epidemiology of hospital pathogens, their transmission dynamics and evolution in hospital and community settings. In my previous life, i.e before finding my passion for Bioinformatics, I used to be a Software Engineer and worked on developing web applications.
+I am a Computational Biologist working at the intersection of bioinformatics, microbiology of infectious disease pathogens and data science. I develop and deploy bioinformatics pipelines on cloud/HPC infrastructure leveraging large genomics and metagenomics datasets. I have delivered extensive analyses of data intense research projects/grants funded by federal health agencies in collaboration with regional public health agencies and universities. These projects studied genomic epidemiology of hospital pathogens, their transmission dynamics and evolution in hospital and community settings. 
+
+Before finding my passion for Bioinformatics, I used to be a Software Engineer at Capgemini where I developed and deployed web application for a telecom client - Alcatel Lucent using C#, asp.net and SQL. This experience provided me with the foundation of  Software development life cycle and kickstarted my journey into coding. 
 
 In addition to my expertise in bioinformatics, I also work as a Data Scientist, utilizing my skills in Python, bash, R and data visualization to support R&D and grant proposals which includes hypothesis generation by performing proof of concept analysis with simulated data and applying novel algorithms to analyze multi-omics data.
 

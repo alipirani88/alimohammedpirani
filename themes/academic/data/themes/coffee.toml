@@ -5,17 +5,17 @@ name = "Coffee"
 light = true
 
 # Primary
-primary = "#795548"
+primary = "#080808"
 
 # Menu
-menu_primary = "#795548"
+menu_primary = "#080808"
 menu_text = "rgba(255,255,255,0.6)"
 menu_text_active = "rgba(255,255,255,1)"
-menu_title = "#fff"
+menu_title = "#ffffff"
 
 # Backgrounds
-background = "hsla(16, 24%, 85%, 1)"
-home_section_odd = "hsla(16, 24%, 85%, 1)"
-home_section_even = "hsla(16, 24%, 80%, 1)"
+background = "hsla(0, 0%, 90%, 1)"
+home_section_odd = "hsla(0, 0%, 100%, 1)"
+home_section_even = "hsla(0, 0%, 100%, 1)"
 
-font = "rose"
+backgroundImage = "../img/CID_NH.jpeg"
